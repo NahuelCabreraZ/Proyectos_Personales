@@ -1,2 +1,2 @@
-# Proyectos_Personales
+# Proyectos Personales
 Es una recopilación de proyectos personales
